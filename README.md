@@ -193,7 +193,7 @@ color:white;" href="https://reallifeheroes.net/"> Read more</a></div>
      <a href="jj.html">Sally Ride</a>
     </div>
   </div>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
