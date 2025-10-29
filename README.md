@@ -8,7 +8,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -71,12 +71,11 @@ color:white;" href="https://reallifeheroes.net/"> Read more</a></div>
 <hr style="width: 60%;">
 
 
-A
 
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
