@@ -166,7 +166,7 @@ color:white;" href="https://reallifeheroes.net/"> Read more</a></div>
     </div>
     <div class="card">
       <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeK76ON20FIbTr9u4z9xIJBCxjNr_2xswX-oWSAkiFbFCBHrN15jj_6oCsDVDiyUdN5PSFPln76JXdpgTkZp0WlL-ODuCbIRv3i2lFEK87AA" alt="Albert Einstein">
-      <a href="ii.html">Albert Einstein</a>
+      <a href="su.html">Albert Einstein</a>
     </div>
     <div class="card">
       <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRurDKfl4ripY3aIu7lwbc559Z6eZU9zNjPjLEfhhCOOhLsE_JjyKI9ll78M3PCsAWqsI0dj_r5F2iYgXf6LPP5tVRz0kQm0wHtoZRe-oEckaFuVqOX3cRMASHNocAv9Ep-EO3IUjVOEySU" alt="Marie Curie">
